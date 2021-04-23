@@ -43,7 +43,6 @@ public class FirstAppConsumer {
 
 			try {
 				Thread.sleep(500);
-				System.out.println("sleeped: " + count);
 			} catch (InterruptedException ex) {
 				ex.printStackTrace();
 			}
